@@ -1,2 +1,4 @@
 # ModuloIPOO
-repositorio del Curso Programación Orientado a Objetos
+Repositorio del Curso Programación Orientado a Objetos
+Universidad Privada Antenor Orrego
+
